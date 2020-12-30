@@ -25,7 +25,7 @@ export default function App() {
   return (
     <div className="App">
       <h1 className="head" style={color}>
-        {greeting} Manimaran
+        {greeting}
       </h1>
       <p className="head" id="time" style={{ fontSize: "50px" }}></p>
     </div>
